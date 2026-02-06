@@ -73,8 +73,8 @@ Edit inside the sketch:
 ```cpp
 const char* WIFI_SSID = "YOUR_WIFI_NAME";
 const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
+```
 
----
 ## 🔒 Security Notice
 
 **This project:**
